@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c771cec6.chunk.css",
+    "main.js": "/static/js/main.636f36f7.chunk.js",
+    "main.js.map": "/static/js/main.636f36f7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fe241461.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fe241461.js.map",
+    "static/js/2.b23b1dfc.chunk.js": "/static/js/2.b23b1dfc.chunk.js",
+    "static/js/2.b23b1dfc.chunk.js.map": "/static/js/2.b23b1dfc.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.91d477e0ec09de98f91c0f30b6a1c414.js": "/precache-manifest.91d477e0ec09de98f91c0f30b6a1c414.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c771cec6.chunk.css.map": "/static/css/main.c771cec6.chunk.css.map",
+    "static/js/2.b23b1dfc.chunk.js.LICENSE.txt": "/static/js/2.b23b1dfc.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/static/media/logo.2ba14e8e.png",
+    "static/media/sablier.png": "/static/media/sablier.89eb54d5.png",
+    "static/media/telephone.png": "/static/media/telephone.7aa0951b.png",
+    "static/media/transport.png": "/static/media/transport.29a0337e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe241461.js",
+    "static/js/2.b23b1dfc.chunk.js",
+    "static/css/main.c771cec6.chunk.css",
+    "static/js/main.636f36f7.chunk.js"
+  ]
+}
